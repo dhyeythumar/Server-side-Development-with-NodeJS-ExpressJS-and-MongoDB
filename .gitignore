@@ -6,6 +6,14 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Personal files
+mongodb_driver
+data.json
+mongoose_driver.js
+config.js
+bin/*.cert
+bin/*.key
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
