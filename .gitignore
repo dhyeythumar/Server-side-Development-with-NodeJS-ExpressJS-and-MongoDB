@@ -10,7 +10,7 @@ lerna-debug.log*
 mongodb_driver
 data.json
 mongoose_driver.js
-config.js
+credentials.js
 bin/*.cert
 bin/*.key
 
