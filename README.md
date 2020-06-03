@@ -60,4 +60,5 @@ The back-end is now running on **`http://localhost:3443`**. Now you can start ed
 
 
 ## License
-Licensed under the [GNU General Public License v3.0](./LICENSE).
+Licensed under the [MIT License](./LICENSE).
+
